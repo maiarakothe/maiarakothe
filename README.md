@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Aluna de Ciência da Computação | UNOESC<br>📚 Desenvolvimento web<br>🏡 Santa Catarina</p>
+<p align="left">🎓 Acadêmica de Ciência da Computação | UNOESC<br>📚 Desenvolvimento web / Front-End<br>🏡 Santa Catarina</p>
 
 ###
 
